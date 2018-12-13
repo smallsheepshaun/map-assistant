@@ -1,0 +1,23 @@
+{
+  "name": "map-assistant",
+  "version": "1.0.0",
+  "description": "地图封装api",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev",
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smallsheepshaun/map-assistant.git"
+  },
+  "keywords": [
+    "map"
+  ],
+  "author": "baiyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smallsheepshaun/map-assistant/issues"
+  },
+  "homepage": "https://github.com/smallsheepshaun/map-assistant#readme"
+}
